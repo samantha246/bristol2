@@ -35,7 +35,4 @@
       <block type="movement_stop" id="108"></block>
     </next>
   </block>
-  <block type="sensor_button" id="133" x="345" y="98">
-    <field name="OBJECT">ENTER</field>
-  </block>
 </xml>
